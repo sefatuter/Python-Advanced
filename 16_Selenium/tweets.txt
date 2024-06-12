@@ -1,0 +1,254 @@
+1- I have been coding in Python for 8 years now. 
+
+If I were to start over today, here's a roadmap... 
+2- Twitter went from X to this…  
+3- Network Graphs using Python 
+4- This link contains Tutorials + Books + Courses + Trainings + Educational Resources in:
+
+- Data science
+- Python
+- Artificial Intelligence .
+- BIG DATA
+- Data Analytics
+- Google Cloud Platform
+- IT Training
+- MBA
+- Cybersecurity
+And much more
+Link:  
+5- How to use LISTS in python [(2024 Tutorial)] 
+6- Python is a versatile programming language that is widely used for econometrics, statistics, and data analysis. https://pyoflife.com/introduction-to-python-for-econometrics-statistics-and-data-analysis-pdf/…
+#DataScience #pythonprogramming #DataScientists #dataAnalysts #EconTwitter #statistics #econometrics #dataviz 
+7- Python in his mind - "Sorry Beginners"  
+8- Python and the Jeet 
+9- If you are looking to improve your #DataAnalytics skills, this is for you. Here's a list of 80 Data Analysis projects based on real-time business problems, solved and explained using #Python. Includes projects like:
+
+1. Electric Vehicles Market Size Analysis
+2. Food Delivery Cost… 
+10- Slopegraphs using Python 
+11- Python Clean Code Tip:
+
+Avoid using floats when you need precise results. Use Decimal instead.
+
+e.g. prices 
+12- If you completed all 4 of the Python #AlgoCodingChallenge you will be able to claim this unique verifiable credential powered by 
+@GoPlausible
+ and be recognized as the master of Algorand Python coding challenges.
+
+Stay tuned for more info by GoPlausible. 
+13- Hey #Algorand, Happy Friday
+You wanted it and 48 hours later #NFT gating and #Token gating #PLAUS is available in production!
+
+Up to 4 Tokens/NFTs can be used to for each #PLAUS gate keeper.
+
+Today , we will drop a test pilot for 4x4  
+14- Become successful in your upcoming job interviews with these 10 Data Analytics projects in:
+
+1. Microsoft Excel.
+2. Power BI.
+3. Tableau.
+4. SQL.
+5. Python.
+6. R.
+
+Dataset and source code provided  
+15- English is the new programming language. AI agents will become ubiquitous! 
+
+Stop learning python or C. Learn to think like a machine, talk to models and design these agents 
+
+The builders of tomorrow will create and control AI agents 
+16- The Python people need to release a Python 4 with literally no other changes beyond copying Go, Rust, etc., by standardizing on a tooling ecosystem.
+
+Let me have a single lib/python4 folder and let the toolchain handle everything else. Please. We have to fix this. 
+17- If you're stuck learning any of the following:
+
+- SQL
+- Python
+- R
+- DAX
+
+Here are my tips to get unstuck:
+
+- Tackle less and build-up.
+
+- Create a daily practice routine.
+
+- Code mini-projects.
+
+- Use online resources (Codecademy, FreeCodeCamp).
+
+- Start talking in coding… 
+18- A student told me, "I don't get the difference between model fitting by:
+
+1. minimum Mean Square Error (MSE) and
+2. Maximum Likelihood Estimation (MLE)"
+
+To help this student, I built out this #Python 
+@matplotlib
+ dashboard for fitting a Gaussian parametric distribution to data… 
+19- Python has a vast ecosystem of AI tools and libraries. The problem is it's confusing. So I spent 24 hours putting together a cheat sheet that captures every Python library I use most frequently.
+
+Over the past 6 months I’ve been quietly building dozens of new AI projects that can… 
+20- Meanwhile, college kids are erecting Hamas enclaves and challenging cops with Monty Python garbage can shields. Do you see the difference? Go Bless Matt Kantor. Fuck the rest. 
+21- Please help me honor Special Warfare Operator 1st Class (SEAL) Matthew G. Kantor. Matthew was killed in action on November 1, 2012, in Afghanistan. Rest easy Hero  
+22- Learn Python with 21 Projects from Beginner to Advanced
+#python 
+23- Daily routine:
+9am to 5pm: Python(FastAPI)
+5pm to 10pm: Java(Spring Boot) + everything
+#buildinpublic #indiedev 
+24- Burmese pythons are considered invasive in the Florida Everglades: they prey upon a variety of mammals, birds, reptiles even alligators of considerable size.
+
+Recently, a 5-ft alligator was found in the stomach of an 18-ft python by national park workers. 
+25- Google fired its #Python team  
+26- PYTHON is difficult to learn with developer, but not anymore!
+
+Introducing "The Ultimate Python ebook "PDF.
+
+You will get:
+
+• 74+ pages cheatsheet
+• Save 100+ hours on research
+
+And for 24 hrs it's 100% FREE
+
+To get it, just:
+
+• Like
+• Reply "PY"
+• Follow me (so I can DM) 
+27- Google, a company focused on AI, has laid off their Python team. Make it make sense 
+28- Blockchain's "best kept secret" is getting out. 
+
+#Python $ALGO Algorand #Web3 
+29- The sentiment around #Algorand seems to be quite positive, with several indicators pointing towards its potential for growth. Firstly, there has been a significant increase in the aggregate volume of $ALGO across various exchanges. For instance, $ALGO's aggr. volume increased by… 
+30- Monty’s Python and the Holey Trail  #UndergroundMoviesAndSongs 
+31- 𝐖𝐚𝐧𝐭 𝐭𝐨 𝐛𝐞 𝐚 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫!
+
+✎ HTML5
+✎ JavaScript
+✎ Python
+✎ PHP
+✎ React.js
+✎ CSS
+✎ TypeScript
+✎ NodeJS
+✎ AngularJS
+
+These courses totally FREE  
+32- Roadmap to Learn Python in Clear 5 steps. 
+
+Check out  
+33- SURPRISE: Google just dropped CodeGemma 1.1 7B IT 
+
+The models get incrementally better at Single and Multi-generations.
+
+Major boost in in C#, Go, Python 
+
+Along with the 7B IT they release an updated 2B base model too.
+
+Enjoy! 
+34- Open-source, composable science is coming.
+
+Just as software programmers use Python and Django to build apps, scientists can leverage reusable scientific components powered by AI and Web3 to solve diseases.
+@balajis
+ breaks down new ways to bring composability to science  
+35- Google has laid off their Python Foundation team and asked them to train their replacements who will be in the Munich office.
+
+This is similar to layoffs in their finance department a few weeks ago where some positions were moved outside the country where they’re cheaper.  
+36- My 9 favorite Python Quant GitHub repos (after 13 years of starring them):
+
+• optopsy
+• ArcticDB
+• quantstats
+• zipline-reloaded
+• awesome-quant
+• OpenBBTerminal
+• pyfolio-reloaded
+• alphalens-reloaded
+• VectorBT 
+37- After the Python Foundation Team, layoffs have reached the Flutter team at Google 
+38- Error Bars using Python 
+39- Something that bothers me a lot in Python is not really Python's fault but when I use it and make a bug and my brain immediately goes
+
+"Nye heh heh heh, if you just had a type system that wouldn't have happened!" 
+40- CISCO is offering FREE trainings and certifications for people looking to learn:
+
+- Data Analytics, - Data Science, - Cybersecurity, - JavaScript, - Python.These are self-paced courses, so you can practice as you learn
+
+1. Data Analytics
+https://skillsforall.com/course/introduction-data-science?courseLang=en-US…
+2.… 
+41- so that's how Pomni ended up on top of that truck, hm funny
+(yep, im still alive :p)
+#TADC #TheAmazingDigitalCircus 
+42- You are caught in coils and cannot escape; there is no point in fighting your python captor. 
+
+Sssssleep now...~ 
+43- Monty Python would be proud.  
+44- The best and brightest. 
+45- Python Programmers/Developer earn an average of 
+$114,144 USD.
+
+Here are 9 python training courses from top-notch tech platforms to help you level up.
+
+They are FREE : 
+46- Free DevOps Interview Guide: 408 Questions (PDF)  
+
+Ansible + Jenkins + Terraform + Kubernetes + SRE + AWS + Shell &amp; Python  
+
+[Only 75 copy] 
+
+https://t3pacademy.gumroad.com/l/DevOps-Interview-Guide-v1/Techfus10n_st… 
+47- I can now confidently say I've mastered both Python and R and here is what I've learned: 
+
+As far as data science is concerned, the only thing that matters about a programming language is whether anybody has already written that package you need. 
+48- Python is Zerg coded: organic, interconnected, rapid and adaptable, flexible evolution
+
+C++ = Terran: modular and versatile, performance through control, rugged and pragmatic
+
+Rust = Protoss: structured, strict abstractions, ritualistic 
+49- Space Rocks
+Cyndi Lauper and Annie Lennox 
+50- Bruh this shit crazy niggas out here with Zoboomafoo  like why these niggas out here with a lemur, a python & an iguana 
+51- The first three weeks of the OpShin Pioneer Program are published now! 
+
+Enjoy tailored code and videos for an introduction to writing smart contracts on #Cardano with #Python! 
+52- python is so test oriented, it even has pass and fail commands for your tests: 
+53-  Hi! I'm enthusiastic about #connect with like-minded individuals in:
+ Python
+ JavaScript
+ Machine Learning
+ Data Science
+ Web Development
+ FrontEnd Development
+ UI/UX
+ Open Source
+ Freelancing
+Let's meet up and exchange knowledge! 
+54- #Connect #letsconnect
+Hello Guys 
+Day 18 of CSS #100DaysofCode #365DaysOfCode
+Today I practice in CSS & HTML
+Have a nice day 
+#Python #HTML #CSS #html #css #code #c #javascript #webdev #webdevelopment 
+55- Use `removesuffix` for safe suffix removal in #Python >= 3.9 (there's also `removeprefix`) 
+
+Benefits 
+
+• It ensures the suffix is present before attempting to remove it.
+
+• It explicitly specifies which suffix to remove, thus avoiding ambiguity.
+
+• Better named methods  
+56- How to Merge PDF files using PyPDF2
+
+pip install PyPDF2
+
+You can easily merge PDF files using the Python code below. Simply replace the names in the list of pdf files with the names of the pdf files you want to merge (if they are in the same directory as your Python script). 
+57- This is a pitch for a Monty Python sketch 
+58- Hey 
+@lexfridman
+, #python is now natively supported on #Algorand. I heard you like #python?  
+59- Togo too! And that place stinks a good one! . In Benin we visited the Python temple where they actually worship and make sacrifices to the serpents 
+60- Shocked to find out that in Benin, they have open-air voodoo markets where they 'sell' sacrifices 

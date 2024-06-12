@@ -1,0 +1,78 @@
+<header>
+    <nav class="navbar navbar-expand navbar-dark bg-dark" aria-label="Second navbar example">
+        <div class="container-fluid">
+          <a class="navbar-brand" href="{% url 'index' %}">Movie App</a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarsExample02" aria-controls="navbarsExample02" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+    
+          <div class="collapse navbar-collapse" id="navbarsExample02">
+            <ul class="navbar-nav me-auto">
+              <li
+                {% if request.path == '/' %}
+                class="nav-item active"
+                {% else %}
+                class="nav-item"
+                {% endif %}
+              >
+                <a class="nav-link" aria-current="page" href="{% url 'index' %}">Home</a>
+              </li>
+              <li 
+                {% if 'about/' in request.path %}
+                  class="nav-item active"
+                {% else %}
+                  class="nav-item"
+                {% endif %}
+              >
+                <a class="nav-link" href="{% url 'about' %}">About</a>
+              </li>
+              <li 
+              {% if 'movies/' in request.path %}
+                class="nav-item active"
+              {% else %}
+                class="nav-item"
+              {% endif %}
+            >
+                <a class="nav-link" href="{% url 'movies' %}">Movies</a>
+              </li>
+            </ul>
+
+            <ul class="navbar-nav">
+              {% if user.is_authenticated %}
+
+                <li class="nav-item ">
+                  <a class="nav-link" aria-current="page" href="javascript:{document.getElementById('logout').submit()}">({{ user.username }}) Logout</a>
+                  <form action="{% url 'logout' %}" method="POST" id="logout">
+                    {% csrf_token %}
+                    <input type="hidden">
+                  </form>
+                </li>
+
+              {% else %}
+                <li
+                  {% if 'login/' in request.path %}
+                    class="nav-item active"
+                  {% else %}
+                    class="nav-item"
+                  {% endif %}
+                >
+                  <a class="nav-link" aria-current="page" href="{% url 'login' %}">Login</a>
+                </li>
+                
+                <li
+                  {% if 'register/' in request.path %}
+                    class="nav-item active"
+                  {% else %}
+                    class="nav-item"
+                  {% endif %}
+                >
+                  <a class="nav-link" aria-current="page" href="{% url 'register' %}">Register</a>
+                </li>
+
+              {% endif %}
+
+            </ul>
+          </div>
+        </div>
+      </nav>
+</header>

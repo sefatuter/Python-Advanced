@@ -1,0 +1,60 @@
+{% extends 'layout.html' %}
+{% load static %}
+{% load humanize %}
+
+{% block content %}
+
+<div class="p-5 text-bg-dark rounded-3">
+    <h2>Change the background</h2>
+    <p>Swap the background-color utility and add a `.text-*` color utility to mix up the jumbotron look. Then, mix and match with additional component themes and more.</p>
+  </div>
+
+
+<div class="row">
+    <div class="col-md-12">
+        
+    {% if movies %}
+        {% for movie in movies %}
+
+        <div class="card mb-3">
+            <div class="row">
+                <div class="col-md-3">
+                    <img class="card-img" src="{% static movie.get_image_path %}" alt="">
+                </div>
+                <div class="col-md-9">
+                    <div class="card-body">
+                        <div class="card-title">
+                        <a href="{% url 'detail' movie.id %}"> {{ movie.name }} </a>
+                        
+                        </div>
+                        <p class="card-text"> {{movie.description}} </p>
+                        <p class="card-text">
+                            <small class="text-muted">{{movie.created_date | timesince }} </small>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+ 
+        {% endfor %}
+
+    {% else %}
+        <div class="alert alert-warning">
+            <p>
+                No Movies
+            </p>
+        </div>
+
+    {% endif %}
+
+        
+
+            
+    </div>
+</div>
+
+{% endblock %}
+
+
